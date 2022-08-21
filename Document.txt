@@ -1,0 +1,4 @@
+            This is not formatted  .
+Hello my    name is java 
+Thank you           for your time
+Old            is           Gold.
